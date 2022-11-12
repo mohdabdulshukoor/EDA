@@ -1,0 +1,15 @@
+1. ID, Mobile, Work_Phone, Home_Phone, Mobile_Reachable, Flag_Email, Total_documents_submitted(Tentative but can be removed.)
+The above columns can be removed after checking the correlation percentage with the target column.
+
+2. Client payment based on the no: of children he/she has.
+(Normal pattern observed such as more the children likely to pay the amount late.)
+
+3. Client payment wrt the client owning a house or flat.
+(Client with independent houses are more well off and may show a regular payment pattern, 
+whereas flat owning clients compared to the latter are may be inconsistent payers.)
+
+4. Client with less income may show a inconsistent payment pattern.
+(
+
+5. Client payment pattern wrt income and credit amount.
+(hint: Client with less income may show a inconsistent payment pattern
